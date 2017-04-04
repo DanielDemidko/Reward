@@ -1,2 +1,2 @@
 # Reward
-Slient DDos for "РосКомНадзор" for windows
+Иммитация пребывания на сайте
