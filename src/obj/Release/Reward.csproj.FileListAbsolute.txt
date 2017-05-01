@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Reward\Reward\bin\Release\Reward.exe
+C:\Users\Admin\Desktop\Reward\Reward\bin\Release\Reward.pdb
+C:\Users\Admin\Desktop\Reward\Reward\obj\Release\Reward.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Reward\Reward\obj\Release\Reward.g.resources
+C:\Users\Admin\Desktop\Reward\Reward\obj\Release\Reward.Properties.Resources.resources
+C:\Users\Admin\Desktop\Reward\Reward\obj\Release\Reward.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Reward\Reward\obj\Release\Reward.exe
+C:\Users\Admin\Desktop\Reward\Reward\obj\Release\Reward.pdb
